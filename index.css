@@ -1,0 +1,18 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    }
+    
+    header{
+      background-color: #d9f1fa;
+      padding-bottom: 5px;
+    }
+    
+    header > h1{
+      padding-top: 25px;
+    }
+    #sally-pic{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 20%;
+    }
